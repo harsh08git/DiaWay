@@ -1,2 +1,3 @@
 # DiaWay
-DiaWay is a ML based web app which predicts diabetes depending upon the input attributes
+DiaWay is a ML based web application which helps to predict whether an individual is diabetic or not based on some input parameters.
+https://youtu.be/rAD7Fb6RB34 
